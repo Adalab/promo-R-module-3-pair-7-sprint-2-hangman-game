@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Route, Routes, Link, NavLink } from 'react-router-dom';
 //import components
 import Header from './Header';
 import SolutionLetters from './SolutionLetters';
